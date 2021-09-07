@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# the last ocurrence is selected with $
+sed '$s/Python/Perl/' $1

@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sed '2 s/Python/Perl/g' $1

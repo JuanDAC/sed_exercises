@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sed 's/\(.*\)Programming/\1Scripting/g' $1
